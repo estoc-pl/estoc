@@ -1,0 +1,6 @@
+[submodule "forge"]
+	path = forge
+	url = https://github.com/estoc-pl/forge
+[submodule "BNF"]
+	path = BNF
+	url = https://github.com/estoc-pl/BNF
