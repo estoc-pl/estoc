@@ -1,6 +1,9 @@
-[submodule "forge"]
-	path = forge
-	url = https://github.com/estoc-pl/forge
 [submodule "BNF"]
 	path = BNF
 	url = https://github.com/estoc-pl/BNF
+[submodule "forgeKit"]
+	path = forgeKit
+	url = https://github.com/estoc-pl/forgeKit
+[submodule "forge"]
+	path = forge
+	url = https://github.com/estoc-pl/forge

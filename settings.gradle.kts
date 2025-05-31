@@ -1,6 +1,5 @@
 pluginManagement {
     val kotlinVersion: String by settings
-    val kspVersion: String by settings
 
     plugins {
         kotlin("multiplatform") version kotlinVersion apply false
@@ -14,4 +13,5 @@ pluginManagement {
 
 rootProject.name = "estoc"
 include("BNF")
+include("forgeKit")
 include("forge")
