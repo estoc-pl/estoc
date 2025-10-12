@@ -13,5 +13,6 @@ pluginManagement {
 
 rootProject.name = "estoc"
 include("BNF")
-include("forgeKit")
 include("forge")
+include("forge-parser-kit")
+include("forge-grammar-kit")

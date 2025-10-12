@@ -4,6 +4,9 @@
 [submodule "forge-parser-kit"]
 	path = forge-parser-kit
 	url = https://github.com/estoc-pl/forge-parser-kit
+[submodule "forge-grammar-kit"]
+    path = forge-grammar-kit
+    url = https://github.com/estoc-pl/forge-grammar-kit
 [submodule "forge"]
 	path = forge
 	url = https://github.com/estoc-pl/forge
